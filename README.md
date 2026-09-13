@@ -1,6 +1,6 @@
 # Snow-Globe-Prep
 
-# ❄️ My First Snow-Globe
+## ❄️ My First Snow-Globe
 
 hellooo! an interactive simple site. click the button to shake the snowglobe, recieve a kind message.
 
@@ -16,7 +16,7 @@ This code helped me build my css and javascript (which i've never seriously inte
 * **CSS3**
 * **JavaScript**
 
-# ❄️ My First Snow-Globe REMIXED
+## ⏮️ My First Snow-Globe REMIXED
 
 Completed the beginner's tutorial! I added my own bedazzle to it and chnaged up the code for more practice. See what it looks like! Same idea, my style.
 
