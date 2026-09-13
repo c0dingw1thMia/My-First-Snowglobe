@@ -1,5 +1,7 @@
 # Snow-Globe-Prep
 
+[🔗 View My Project Homepage](https://c0dingw1thmia.github.io/Snow-Globe-Prep/)
+
 ## ❄️ My First Snow-Globe
 
 hellooo! an interactive simple site. click the button to shake the snowglobe, recieve a kind message.
