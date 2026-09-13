@@ -20,7 +20,7 @@ This code helped me build my css and javascript (which i've never seriously inte
 
 ## ⏮️ My First Snow-Globe REMIXED
 
-Completed the beginner's tutorial! I added my own bedazzle to it and chnaged up the code for more practice. See what it looks like! Same idea, my style.
+Completed the beginner's tutorial! I added my own bedazzle to it and chnaged up the code for more practice. See what it looks like! Same idea, my style. (NOT COMPLETED.)
 
 [🔗 View Live Demo](https://c0dingw1thmia.github.io/Snow-Globe-Prep/my-first-snowglobe-REMIX)
 
