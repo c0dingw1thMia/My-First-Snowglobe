@@ -1,8 +1,4 @@
-# My-First Snowglobe
-
-[🔗 View My Project Homepage](https://c0dingw1thmia.github.io/My-First-Snowglobe/)
-
-## ❄️ My First Snow-Globe
+# ❄️ My First Snow-Globe
 
 hellooo! an interactive simple site. click the button to shake the snowglobe, recieve a kind message.
 
