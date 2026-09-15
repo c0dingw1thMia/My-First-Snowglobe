@@ -1,6 +1,8 @@
 const box = document.querySelector("#box");
 const button = document.querySelector("#shake");
 const message = document.querySelector("#message");
+const backgroundImage = document.getElementById("initial-image");
+const newImage = "openbox.png";
 
 const messages = [
 "you are someone's favourite person to sit next to.",
@@ -12,6 +14,14 @@ const messages = [
 ]
 
 button.addEventListener("click", () => {
+
+  if (backgroundImage.src == "openbox.png") {
+        backgroundImage.src = "closedbox.png";
+
+    } else {
+        backgroundImage.src = newImage;
+    }
+
     box.classList.add("shaking");
     setTimeout(() => box.classList.remove("shaking"), 600);
 
