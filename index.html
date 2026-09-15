@@ -1,14 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>MY Project Home Page</title>
+        <title>My First Snowglobe</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Waterfall&display=swap" rel="stylesheet">
     </head>
     <body>
-        <h1>Amaya's Project Homepage</h1>
-        <p>In preparation of the Snowglobe Hackathon, here are my projects:</p>
-        <a href="my-first-snowglobe/index.html">My First Snowglobe</a><br>
-        <a href="my-first-snowglobe-REMIX/index.html">My First Snowglobe REMIXED</a>
+        <header class="hero">
+            <h1>Welcome to My First Snowglobe</h1>
+            <p>Shake it up for a little winter kindness!</p>
+        </header>
+        <main>
+            <section class="globe-card">
+                <div class="globe" id="globe">
+                    <img class="scene" src="snowglobe.png" alt="a snowglobe">
+                </div>
+                <button id="shake">Shake the Globe</button>
+                <p class="message" id="message">Press the Button!</p>
+            </section>
+        </main>
+        <footer>
+            <p>Made by me, for me.. with me??</p>
+        </footer>
+        <script src="script.js"></script>
     </body>
 </html>
